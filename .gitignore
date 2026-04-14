@@ -13,3 +13,7 @@ ___*.py
 **/build/
 **/dist/
 **/*.egg-info/
+
+#mp4
+*.mp4
+
